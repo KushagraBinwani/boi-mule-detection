@@ -95,22 +95,6 @@ Results showed that the remaining frauds closely resembled legitimate accounts a
 
 ---
 
-## Results
-
-### Model Progression
-
-![Model Comparison](figures/model_comparison.png)
-
-### Neural Network Training
-
-![Neural Network Training Curve](figures/nn_training_curve.png)
-
-### XGBoost Feature Importance
-
-![XGBoost Feature Importance](figures/xgb_feature_importance.png)
-
----
-
 ## Repository Structure
 
 ```text
